@@ -1,0 +1,2 @@
+# shop-local
+local labtop
